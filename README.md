@@ -1,4 +1,4 @@
 Space-Invaders
 ==============
 
-A space invaders implementation in processing
+A Space Invaders implementation in Processing. One of the first pieces of software I ever wrote.
